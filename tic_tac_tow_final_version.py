@@ -5,7 +5,7 @@ Created on Tue Jul 11 01:45:56 2017
 @author: SG
 """
 intro = """
-        \n\n Welcome one and all to SG's amazing game of tic tac tow!!!
+        \n\n Welcome one and all to SG's amazing game of tic tac toe!!!
          INSTRUCTIONS:
               To place an 'X' or 'O' simply enter the co-ordinate of the cell
               for example: to place a 'O' in top left corner type a0
