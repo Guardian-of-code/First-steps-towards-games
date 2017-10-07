@@ -2,7 +2,7 @@
 """
 Created on Tue Jul 11 01:45:56 2017
 
-@author: SG
+@author: SG/guardian-of-code
 """
 intro = """
         \n\n Welcome one and all to SG's amazing game of tic tac toe!!!
